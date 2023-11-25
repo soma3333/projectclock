@@ -1,0 +1,2 @@
+# startproject
+simple CLOCK
